@@ -6,13 +6,13 @@
 
 @layer base {
   :root {
-    --background: 0 0% 4%;
+    --background: 0 0% 10%;
     --foreground: 220 14% 96%;
 
-    --card: 0 0% 9%;
+    --card: 0 0% 14%;
     --card-foreground: 220 14% 96%;
 
-    --popover: 0 0% 9%;
+    --popover: 0 0% 14%;
     --popover-foreground: 220 14% 96%;
 
     --primary: 43 76% 52%;
@@ -21,8 +21,8 @@
     --secondary: 0 70% 35%;
     --secondary-foreground: 220 14% 96%;
 
-    --muted: 0 0% 15%;
-    --muted-foreground: 220 9% 64%;
+    --muted: 0 0% 20%;
+    --muted-foreground: 220 9% 70%;
 
     --accent: 43 76% 52%;
     --accent-foreground: 0 0% 4%;
@@ -45,13 +45,13 @@
     --sidebar-border: 43 30% 20%;
     --sidebar-ring: 43 76% 52%;
 
-    --gold: 43 76% 52%;
-    --gold-light: 43 80% 65%;
-    --gold-dark: 43 70% 40%;
-    --crimson: 0 70% 35%;
-    --obsidian: 0 0% 4%;
-    --charcoal: 0 0% 9%;
-    --surface: 0 0% 12%;
+    --gold: 43 80% 58%;
+    --gold-light: 43 85% 70%;
+    --gold-dark: 43 70% 45%;
+    --crimson: 0 70% 40%;
+    --obsidian: 0 0% 10%;
+    --charcoal: 0 0% 14%;
+    --surface: 0 0% 18%;
   }
 }
 
