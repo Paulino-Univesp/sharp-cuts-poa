@@ -8,10 +8,10 @@ const HeroSection = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat brightness-125 saturate-110 contrast-105"
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: `url(${heroBg})` }}
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-amber-100/20 via-yellow-50/10 to-background/90" />
+      <div className="absolute inset-0 bg-gradient-to-b from-background/80 via-background/60 to-background" />
 
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto animate-fade-in-up">
         <div className="inline-block mb-6 px-4 py-1.5 border border-primary/40 rounded-sm">
