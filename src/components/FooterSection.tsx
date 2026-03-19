@@ -8,7 +8,7 @@ const FooterSection = () => {
           <div>
             <h3 className="font-display text-2xl font-bold text-gradient-gold">Cabeleireiro GILDÃO</h3>
             <p className="font-body text-xs text-muted-foreground mt-1">
-
+              "Deus em primeiro lugar."
             </p>
           </div>
 
