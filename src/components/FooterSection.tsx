@@ -6,9 +6,9 @@ const FooterSection = () => {
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
-            <h3 className="font-display text-2xl font-bold text-gradient-gold">Salão de Cabeleireiro GILDÃO</h3>
+            <h3 className="font-display text-2xl font-bold text-gradient-gold">Cabeleireiro GILDÃO</h3>
             <p className="font-body text-xs text-muted-foreground mt-1">
-              Poá, SP
+
             </p>
           </div>
 
@@ -18,8 +18,8 @@ const FooterSection = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
-              aria-label="Instagram"
-            >
+              aria-label="Instagram">
+              
               <Instagram className="w-5 h-5" />
             </a>
             <a
@@ -27,8 +27,8 @@ const FooterSection = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
-              aria-label="WhatsApp"
-            >
+              aria-label="WhatsApp">
+              
               <MessageCircle className="w-5 h-5" />
             </a>
           </div>
@@ -40,8 +40,8 @@ const FooterSection = () => {
           </p>
         </div>
       </div>
-    </footer>
-  );
+    </footer>);
+
 };
 
 export default FooterSection;
