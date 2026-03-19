@@ -6,9 +6,9 @@ const FooterSection = () => {
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
-            <h3 className="font-display text-2xl font-bold text-gradient-gold">GILDÃO</h3>
+            <h3 className="font-display text-2xl font-bold text-gradient-gold">Salão de Cabeleireiro GILDÃO</h3>
             <p className="font-body text-xs text-muted-foreground mt-1">
-              Barbearia Premium • Poá, SP
+              Poá, SP
             </p>
           </div>
 
