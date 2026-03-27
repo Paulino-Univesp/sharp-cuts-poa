@@ -1,6 +1,6 @@
 import { MessageCircle } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5511932628689?text=Olá! Gostaria de agendar um horário.";
+const WHATSAPP_LINK = "https://wa.me/5511945379081?text=Olá! Gostaria de agendar um horário.";
 
 const StickyWhatsApp = () => {
   return (

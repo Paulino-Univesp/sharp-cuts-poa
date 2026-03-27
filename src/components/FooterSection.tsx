@@ -23,7 +23,7 @@ const FooterSection = () => {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/5511932628689"
+              href="https://wa.me/5511945379081"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
