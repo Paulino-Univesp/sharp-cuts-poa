@@ -28,7 +28,7 @@ const MapSection = () => {
               <Phone className="w-5 h-5 text-primary mt-1 shrink-0" />
               <div>
                 <h3 className="font-body font-semibold text-sm uppercase tracking-widest mb-1">WhatsApp</h3>
-                <p className="font-body text-muted-foreground">(11) 99999-9999</p>
+                <a href="https://wa.me/5511945379081" target="_blank" rel="noopener noreferrer" className="font-body text-muted-foreground hover:text-primary transition-colors">(11) 94537-9081</a>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -42,7 +42,7 @@ const MapSection = () => {
 
           <div className="rounded-sm overflow-hidden border border-primary/20 h-72">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.6!2d-46.3469!3d-23.5284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDMxJzQyLjIiUyA0NsKwMjAnNDguOCJX!5e0!3m2!1spt-BR!2sbr!4v1"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.0!2d-46.3469!3d-23.5284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce8a2b0e6b3b3d%3A0x0!2sR.+Uni%C3%A3o%2C+1135+-+Po%C3%A1%2C+SP!5e0!3m2!1spt-BR!2sbr!4v1"
               width="100%"
               height="100%"
               style={{ border: 0 }}
