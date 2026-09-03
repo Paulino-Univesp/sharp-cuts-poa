@@ -23,7 +23,7 @@ const FooterSection = () => {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/5511945379081"
+              href="https://api.whatsapp.com/send?phone=5511945379081&type=phone_number&app_absent=0"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
