@@ -21,6 +21,7 @@ const images = [
   { src: childCutTwoAsset.url, alt: "Corte infantil em cabelo crespo" },
   { src: childCutThreeAsset.url, alt: "Corte infantil taper fade" },
   { src: childCutBlondeAsset.url, alt: "Corte infantil loiro liso e brilhante" },
+  { src: galleryMusicalAsset.url, alt: "Ambiente premium com detalhes dourados" },
 ];
 
 const GallerySection = () => {
