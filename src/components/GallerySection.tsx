@@ -8,6 +8,7 @@ import childCutOneAsset from "@/assets/gildao-corte-infantil-1.jpg.asset.json";
 import childCutTwoAsset from "@/assets/gildao-corte-infantil-2.jpg.asset.json";
 import childCutThreeAsset from "@/assets/gildao-corte-infantil-3.jpg.asset.json";
 import childCutBlondeAsset from "@/assets/gildao-corte-infantil-loiro.jpg.asset.json";
+import galleryMusicalAsset from "@/assets/gildao-gallery-musical.jpg.asset.json";
 
 const images = [
   { src: cutFade, alt: "Fade moderno" },
@@ -20,6 +21,7 @@ const images = [
   { src: childCutTwoAsset.url, alt: "Corte infantil em cabelo crespo" },
   { src: childCutThreeAsset.url, alt: "Corte infantil taper fade" },
   { src: childCutBlondeAsset.url, alt: "Corte infantil loiro liso e brilhante" },
+  { src: galleryMusicalAsset.url, alt: "Ambiente premium com detalhes dourados" },
 ];
 
 const GallerySection = () => {
