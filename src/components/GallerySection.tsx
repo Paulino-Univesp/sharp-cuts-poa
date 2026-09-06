@@ -4,6 +4,9 @@ import cutBeard from "@/assets/cut-beard.jpg";
 import galleryInterior from "@/assets/gallery-interior.jpg";
 import serviceHydration from "@/assets/service-hydration.jpg";
 import serviceEyebrow from "@/assets/service-eyebrow.jpg";
+import childCutOneAsset from "@/assets/gildao-corte-infantil-1.jpg.asset.json";
+import childCutTwoAsset from "@/assets/gildao-corte-infantil-2.jpg.asset.json";
+import childCutThreeAsset from "@/assets/gildao-corte-infantil-3.jpg.asset.json";
 
 const images = [
   { src: cutFade, alt: "Fade moderno" },
@@ -12,6 +15,9 @@ const images = [
   { src: serviceHydration, alt: "Tratamento capilar" },
   { src: cutBeard, alt: "Barba alinhada" },
   { src: serviceEyebrow, alt: "Resultado premium" },
+  { src: childCutOneAsset.url, alt: "Corte infantil low fade" },
+  { src: childCutTwoAsset.url, alt: "Corte infantil em cabelo crespo" },
+  { src: childCutThreeAsset.url, alt: "Corte infantil taper fade" },
 ];
 
 const GallerySection = () => {
