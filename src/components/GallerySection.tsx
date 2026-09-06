@@ -7,6 +7,7 @@ import serviceEyebrow from "@/assets/service-eyebrow.jpg";
 import childCutOneAsset from "@/assets/gildao-corte-infantil-1.jpg.asset.json";
 import childCutTwoAsset from "@/assets/gildao-corte-infantil-2.jpg.asset.json";
 import childCutThreeAsset from "@/assets/gildao-corte-infantil-3.jpg.asset.json";
+import childCutBlondeAsset from "@/assets/gildao-corte-infantil-loiro.jpg.asset.json";
 
 const images = [
   { src: cutFade, alt: "Fade moderno" },
