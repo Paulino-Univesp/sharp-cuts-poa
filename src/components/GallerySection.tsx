@@ -19,6 +19,7 @@ const images = [
   { src: childCutOneAsset.url, alt: "Corte infantil low fade" },
   { src: childCutTwoAsset.url, alt: "Corte infantil em cabelo crespo" },
   { src: childCutThreeAsset.url, alt: "Corte infantil taper fade" },
+  { src: childCutBlondeAsset.url, alt: "Corte infantil loiro liso e brilhante" },
 ];
 
 const GallerySection = () => {
