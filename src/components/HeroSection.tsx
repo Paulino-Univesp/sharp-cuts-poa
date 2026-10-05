@@ -2,7 +2,7 @@ import heroBg from "@/assets/hero-barbershop.jpg";
 import { Button } from "@/components/ui/button";
 import { MessageCircle } from "lucide-react";
 
-const WHATSAPP_LINK = "https://api.whatsapp.com/send?phone=5511945379081&text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20hor%C3%A1rio.&type=phone_number&app_absent=0";
+const WHATSAPP_LINK = "https://wa.me/5511945379081?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20hor%C3%A1rio.";
 
 const HeroSection = () => {
   return (
