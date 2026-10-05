@@ -11,7 +11,7 @@ const HeroSection = () => {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: `url(${heroBg})` }}
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-background/80 via-background/60 to-background" />
+      {/* Sem camada cinza sobre a imagem: o fundo original fica totalmente visível. */}
 
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto animate-fade-in-up">
         <div className="inline-block mb-6 px-4 py-1.5 border border-primary/40 rounded-sm">
