@@ -68,6 +68,12 @@
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
   }
+
+  /* Remove any unwanted gray underline/decoration behind or under text. */
+  *, *::before, *::after {
+    text-decoration: none !important;
+    text-shadow: none;
+  }
 }
 
 @layer utilities {
