@@ -20,7 +20,8 @@ const GratitudeSection = () => {
             Somos gratos a cada cliente que confia em nosso trabalho e faz parte dessa história.
           </p>
           <p>
-            Que Deus continue abençoando o nosso caminho, nosso trabalho e cada pessoa que passa por aqui.
+            Que Deus continue abençoando o nosso caminho,<br />
+            <span className="block">nosso trabalho e cada pessoa que passa por aqui.</span>
           </p>
           <p className="font-semibold text-foreground pt-2">
             Que Deus abençoe você e sua família!
