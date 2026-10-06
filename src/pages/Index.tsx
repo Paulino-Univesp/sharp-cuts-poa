@@ -9,6 +9,7 @@ import TestimonialsSection from "@/components/TestimonialsSection";
 import PricingSection from "@/components/PricingSection";
 import CTASection from "@/components/CTASection";
 import MapSection from "@/components/MapSection";
+import GratitudeSection from "@/components/GratitudeSection";
 import FooterSection from "@/components/FooterSection";
 import StickyWhatsApp from "@/components/StickyWhatsApp";
 
@@ -26,6 +27,7 @@ const Index = () => {
       <PricingSection />
       <CTASection />
       <MapSection />
+      <GratitudeSection />
       <FooterSection />
       <StickyWhatsApp />
     </main>
