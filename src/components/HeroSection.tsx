@@ -11,19 +11,19 @@ const HeroSection = () => {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: `url(${heroBg})` }}
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-background/55 via-background/30 to-background" />
+      <div className="absolute inset-0 bg-gradient-to-b from-background/45 via-background/20 to-background/95" />
 
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto animate-fade-in-up">
         <div className="inline-block mb-6 px-4 py-1.5 border border-primary/40 rounded-sm">
           <span className="font-body text-xs uppercase tracking-[0.3em] text-primary">
-            Poá, São Paulo
+            POÁ, SÃO PAULO/SP
           </span>
         </div>
 
         <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
           <span className="text-gradient-gold">Especialista</span> em Corte{" "}
           <br className="hidden md:block" />
-          Masculino Moderno em Poá
+          Masculino Moderno em Poá/SP
         </h1>
 
         <p className="font-body text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10">
