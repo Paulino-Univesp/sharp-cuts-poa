@@ -35,7 +35,7 @@ const MapSection = () => {
               <Clock className="w-5 h-5 text-primary mt-1 shrink-0" />
               <div>
                 <h3 className="font-body font-semibold text-sm uppercase tracking-widest mb-1">Horário</h3>
-                <p className="font-body text-muted-foreground">Seg a Sáb: 9h - 20h</p>
+                <p className="font-body text-muted-foreground">Seg a Sáb: 9h - 17h</p>
               </div>
             </div>
           </div>
