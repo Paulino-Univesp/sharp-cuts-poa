@@ -49,7 +49,7 @@ const MapSection = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Localização Gildão Barbershop"
+              title="Localização Cabeleireiro Gildão"
             />
           </div>
         </div>
