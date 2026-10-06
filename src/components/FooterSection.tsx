@@ -36,7 +36,7 @@ const FooterSection = () => {
 
         <div className="mt-8 pt-6 border-t border-primary/5 text-center">
           <p className="font-body text-xs text-muted-foreground">
-            © 2026 Gildão Barbershop. Todos os direitos reservados.
+            © 2026 Cabeleireiro Gildão. Todos os direitos reservados.
           </p>
         </div>
       </div>
