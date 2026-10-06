@@ -1,4 +1,4 @@
-import heroBg from "@/assets/hero-barbershop.jpg";
+import heroBg from "@/assets/hero-gildao-cover.jpg";
 import { Button } from "@/components/ui/button";
 import { MessageCircle } from "lucide-react";
 
