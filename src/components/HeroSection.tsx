@@ -16,7 +16,7 @@ const HeroSection = () => {
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto animate-fade-in-up">
         <div className="inline-block mb-6 px-4 py-1.5 border border-primary/40 rounded-sm">
           <span className="font-body text-xs uppercase tracking-[0.3em] text-primary">
-            POÁ, SÃO PAULO/SP
+            POÁ/SP, SÃO PAULO
           </span>
         </div>
 
