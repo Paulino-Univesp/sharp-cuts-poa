@@ -3,7 +3,7 @@ const GratitudeSection = () => {
     <section className="py-20 px-4 border-t border-primary/10">
       <div className="max-w-3xl mx-auto text-center">
         <span className="font-body text-xs uppercase tracking-[0.3em] text-primary mb-4 block">
-          Nossa Gratidão
+          Agradecimento
         </span>
         <h2 className="font-display text-3xl md:text-5xl font-bold text-gradient-gold mb-8">
           Nossa Gratidão
