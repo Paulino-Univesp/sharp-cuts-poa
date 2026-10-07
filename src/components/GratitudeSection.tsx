@@ -1,3 +1,5 @@
+import familiaGildao from "@/assets/familia-gildao.png.asset.json";
+
 const GratitudeSection = () => {
   return (
     <section className="py-20 px-4 border-t border-primary/10">
