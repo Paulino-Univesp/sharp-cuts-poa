@@ -23,7 +23,7 @@ const HeroSection = () => {
         <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
           <span className="text-gradient-gold">Especialista</span> em Corte{" "}
           <br className="hidden md:block" />
-          Masculino Moderno em Poá/SP
+          Masculino Moderno em&nbsp;Poá/SP
         </h1>
 
         <p className="font-body text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10">
