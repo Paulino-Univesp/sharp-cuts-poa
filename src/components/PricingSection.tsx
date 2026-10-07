@@ -1,10 +1,7 @@
 const prices = [
   { service: "Corte Masculino", price: "R$ 35" },
-  { service: "Corte + Barba", price: "R$ 45" },
-  { service: "Hidratação Capilar", price: "R$ 50" },
-  { service: "Pigmentação de Barba", price: "R$ 80" },
+  { service: "Corte + Barba", price: "R$ 60" },
   { service: "Sobrancelha Masculina", price: "R$ 20" },
-  { service: "Progressiva Masculina", price: "R$ 120" },
 ];
 
 const PricingSection = () => {

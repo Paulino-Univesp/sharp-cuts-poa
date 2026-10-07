@@ -1,12 +1,9 @@
-import { Scissors, SparkleIcon, Droplets, Palette, Eye, Wind } from "lucide-react";
+import { Scissors, SparkleIcon, Eye } from "lucide-react";
 
 const services = [
   { icon: Scissors, title: "Corte Masculino", desc: "Fade, social moderno, undercut e mais" },
   { icon: SparkleIcon, title: "Corte + Barba", desc: "Combo completo com acabamento premium" },
-  { icon: Droplets, title: "Hidratação Capilar", desc: "Tratamento profundo para cabelos saudáveis" },
-  { icon: Palette, title: "Pigmentação de Barba", desc: "Preenchimento natural e uniforme" },
   { icon: Eye, title: "Sobrancelha Masculina", desc: "Design limpo e natural" },
-  { icon: Wind, title: "Progressiva Masculina", desc: "Alinhamento e redução de volume" },
 ];
 
 const ServicesSection = () => {
