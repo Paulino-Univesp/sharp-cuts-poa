@@ -1,4 +1,4 @@
-import { Scissors, SparkleIcon, Droplets, Palette, Eye, Wind } from "lucide-react";
+import { Scissors, SparkleIcon, Eye } from "lucide-react";
 
 const services = [
   { icon: Scissors, title: "Corte Masculino", desc: "Fade, social moderno, undercut e mais" },
