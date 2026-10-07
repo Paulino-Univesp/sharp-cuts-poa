@@ -1,3 +1,5 @@
+import familiaGildao from "@/assets/familia-gildao.png.asset.json";
+
 const GratitudeSection = () => {
   return (
     <section className="py-20 px-4 border-t border-primary/10">
@@ -31,6 +33,15 @@ const GratitudeSection = () => {
         <p className="font-display text-lg text-primary mt-8">
           — Família Gildão
         </p>
+
+        <figure className="mt-8 flex justify-center">
+          <img
+            src={familiaGildao.url}
+            alt="Família Gildão"
+            loading="lazy"
+            className="w-full max-w-md rounded-lg border border-primary/25 shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
+          />
+        </figure>
       </div>
     </section>
   );
